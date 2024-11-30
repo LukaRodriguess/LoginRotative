@@ -25,8 +25,6 @@ O objetivo deste projeto é implementar um **sistema de login** que não apenas 
 -  **CSS**: Estilização do layout, alternância de tema e responsividade.
 - **JavaScript**: Lógica para alternância de tema e validação de login.
 
----
-
 
 ![LoginRotative](https://github.com/user-attachments/assets/90130234-b4ec-4955-b3d8-8adfa39e125c)
 
