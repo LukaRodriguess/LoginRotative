@@ -18,4 +18,4 @@
 
 Veja o design da tela de login com a rotatividade:
 
-![Login Rotativo]![LoginRotative](https://github.com/user-attachments/assets/832463a4-33d9-4da3-a251-5b4f9c0bc68c)
+![LoginRotative](https://github.com/user-attachments/assets/832463a4-33d9-4da3-a251-5b4f9c0bc68c)
