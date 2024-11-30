@@ -6,7 +6,7 @@ Uma aplicação de **login rotativo** que oferece uma interface de login simples
 
 ## 🎯 **Objetivo**
 
-O objetivo deste projeto é implementar um **sistema de login** que não apenas funcione de maneira eficiente, mas também proporcione uma experiência de usuário agradável e personalizada. A alternância entre os temas claro e escuro é um detalhe que visa aumentar a acessibilidade e a personalização do usuário.
+O objetivo deste projeto é criar uma aplicação de login com uma interface moderna e funcional, oferecendo uma experiência de usuário otimizada. A funcionalidade de alternância entre os temas claro e escuro visa proporcionar uma navegação mais confortável, permitindo que o usuário personalize a visualização conforme sua preferência, aumentando a acessibilidade e a usabilidade do sistema.
 
 ---
 
