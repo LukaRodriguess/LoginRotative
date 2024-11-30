@@ -1,37 +1,21 @@
-# 🔐 **Login Rotative** - Sistema de Login Rotativo com Alternância de Tema
+# 🎨 **Login Rotativo** - Tela de Login com Efeito de Rotatividade
 
-Uma aplicação de **login rotativo** que oferece uma interface de login simples, com a funcionalidade de alternância entre **tema claro** e **tema escuro**. A interface foi projetada para ser **moderna**, **funcional** e **intuitiva**, permitindo ao usuário escolher sua preferência de visualização com facilidade.
+**Login Rotativo** é uma tela de login moderna e inovadora, projetada com um efeito de rotatividade, que traz um visual dinâmico e diferenciado para o processo de login. O design da tela possui elementos com um toque de inclinação, criando uma interação visual única, com uma estrutura clara e fácil de usar.
 
----
+## 🌟 **Destaques do Projeto**
 
-## 🎯 **Objetivo**
-
-O objetivo deste projeto é criar uma aplicação de login com uma interface moderna e funcional, oferecendo uma experiência de usuário otimizada. A funcionalidade de alternância entre os temas claro e escuro visa proporcionar uma navegação mais confortável, permitindo que o usuário personalize a visualização conforme sua preferência, aumentando a acessibilidade e a usabilidade do sistema.
-
----
-
-## 🚀 **Funcionalidades**
-
-- **Login Simples e Funcional**: Campos para usuário e senha com validação simples.
-- **Alternância de Tema (Claro/Escuro)**: Mude entre temas para melhor experiência de leitura, sem recarregar a página.
-- **Design Responsivo**: A interface se adapta a diferentes dispositivos, garantindo uma boa experiência tanto em celulares quanto desktops.
-- **Fácil Navegação**: Com uma interface limpa e moderna, o sistema de login torna-se fácil de usar para qualquer pessoa.
-
----
+- **Design Diferenciado**: A tela de login apresenta uma rotação sutil, oferecendo um visual interessante e moderno.
+- **Interface Intuitiva**: Campos de entrada simples e funcionais, com um layout limpo para facilitar a navegação.
+- **Acessibilidade**: A interface foi projetada para garantir que a experiência do usuário seja fluida, tanto em dispositivos móveis quanto em desktops.
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **HTML**: Estrutura da página e dos componentes principais.
--  **CSS**: Estilização do layout, alternância de tema e responsividade.
-- **JavaScript**: Lógica para alternância de tema e validação de login.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30" height="30"> **HTML**: Estruturação da tela de login e campos de entrada.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/CSS3_logo.svg" alt="CSS Logo" width="30" height="30"> **CSS**: Estilização, incluindo o efeito de rotação e design da interface.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/JavaScript-logo.png" alt="JavaScript Logo" width="30" height="30"> **JavaScript**: Lógica de interação do formulário e validação de campos.
 
+## 📸 **Visual da Tela**
 
-![LoginRotative](https://github.com/user-attachments/assets/90130234-b4ec-4955-b3d8-8adfa39e125c)
+Veja o design da tela de login com a rotatividade:
 
-
-## 📦 **Como Usar**
-
-### 1. **Clone o Repositório**
-
-```bash
-git clone https://github.com/LukaRodriguess/LoginRotative.git
+![Login Rotativo](https://github.com/LukaRodriguess/LoginRotative/raw/master/imagem.png)
