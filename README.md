@@ -10,12 +10,12 @@
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30" height="30"> **HTML**: Estruturação da tela de login e campos de entrada.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/CSS3_logo.svg" alt="CSS Logo" width="30" height="30"> **CSS**: Estilização, incluindo o efeito de rotação e design da interface.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/JavaScript-logo.png" alt="JavaScript Logo" width="30" height="30"> **JavaScript**: Lógica de interação do formulário e validação de campos.
+- **HTML**: Estruturação da tela de login e campos de entrada.
+- **CSS**: Estilização, incluindo o efeito de rotação e design da interface.
+- **JavaScript**: Lógica de interação do formulário e validação de campos.
 
 ## 📸 **Visual da Tela**
 
 Veja o design da tela de login com a rotatividade:
 
-![Login Rotativo](https://github.com/LukaRodriguess/LoginRotative/raw/master/imagem.png)
+![Login Rotativo] ![LoginRotative](https://github.com/user-attachments/assets/832463a4-33d9-4da3-a251-5b4f9c0bc68c)
