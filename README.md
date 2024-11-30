@@ -21,11 +21,15 @@ O objetivo deste projeto é implementar um **sistema de login** que não apenas 
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30" height="30"> **HTML**: Estrutura da página e dos componentes principais.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/CSS3_logo.svg" alt="CSS Logo" width="30" height="30"> **CSS**: Estilização do layout, alternância de tema e responsividade.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/JavaScript-logo.png" alt="JavaScript Logo" width="30" height="30"> **JavaScript**: Lógica para alternância de tema e validação de login.
+- **HTML**: Estrutura da página e dos componentes principais.
+-  **CSS**: Estilização do layout, alternância de tema e responsividade.
+- **JavaScript**: Lógica para alternância de tema e validação de login.
 
 ---
+
+
+![LoginRotative](https://github.com/user-attachments/assets/90130234-b4ec-4955-b3d8-8adfa39e125c)
+
 
 ## 📦 **Como Usar**
 
